@@ -10,4 +10,4 @@ View live demo using Netlify: [Live Demo](https://rishabhbansal11.netlify.app)
 
 ## Website Preview
 
-<img src= "./img/preview.png">
+<img src= "./images/preview.png">
